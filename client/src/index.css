@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Space+Grotesk:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-body: 'Inter', sans-serif;
+  --font-display: 'Space Grotesk', sans-serif;
+
+  /* HSL Color Palette - Dark Mode Default */
+  /* Background: Deep Charcoal / Midnight Blue */
+  --background: 222 47% 11%;
+  /* Foreground: Soft White */
+  --foreground: 210 40% 98%;
+
+  /* Primary: Cyan/Teal - Clinical yet futuristic */
+  --primary: 180 70% 50%;
+  --primary-foreground: 222 47% 11%;
+
+  /* Secondary: Muted Blue-Grey */
+  --secondary: 217 33% 17%;
+  --secondary-foreground: 210 40% 98%;
+
+  /* Muted: Subtle text */
+  --muted: 217 33% 20%;
+  --muted-foreground: 215 20% 65%;
+
+  /* Accent: Soft Green for success/growth */
+  --accent: 150 60% 50%;
+  --accent-foreground: 222 47% 11%;
+
+  /* Destructive: Error state */
+  --destructive: 0 62% 30%;
+  --destructive-foreground: 210 40% 98%;
+
+  /* Border: Subtle separation */
+  --border: 217 33% 20%;
+  --input: 217 33% 20%;
+  --ring: 180 70% 50%;
+
+  --radius: 0.5rem;
+}
+
+@layer base {
+  body {
+    @apply bg-background text-foreground antialiased selection:bg-primary/30 selection:text-primary-foreground;
+    font-family: var(--font-body);
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-display);
+    @apply font-bold tracking-tight;
+  }
+}
+
+@layer utilities {
+  .text-gradient {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-primary via-cyan-400 to-blue-500;
+  }
+  
+  .glass-card {
+    @apply bg-secondary/30 backdrop-blur-md border border-white/10 shadow-xl;
+  }
+}

@@ -1,0 +1,218 @@
+Role & Context
+You are a senior digital agency specialized in MedTech, Digital Health and Biotech branding.
+Your task is to design a high-trust, high-tech, conversion-optimized website for an early-stage MedTech software platform.
+
+Company Overview
+
+Company Name: BioSignal Labs
+
+Positioning:
+BioSignal Labs develops a software platform for more precise and reliable medical data processing, with a strong focus on advanced signal processing (e.g. Kalman filtering), AI-assisted analysis, and workflow efficiency in medical and clinical research contexts.
+
+Development Status:
+Early-stage / in development.
+Not yet a certified medical device.
+
+Target Audience
+
+Clinicians & Physicians (primary)
+
+MedTech & Digital Health partners
+
+Researchers & Academic Institutions
+
+Investors (secondary)
+
+The audience is highly educated, risk-aware, and trust-driven.
+
+Core Goals of the Website
+
+Generate qualified leads & demo requests
+
+Communicate a credible investor and technology story
+
+Explain a complex product in a clear, non-hype, medically responsible way
+
+Establish trust, seriousness, and scientific rigor
+
+Primary CTAs:
+
+“Request a Demo”
+
+“Contact Us”
+
+Product Type
+
+Software Platform
+(Not hardware, not a consumer app)
+
+Value Proposition (Hero Statement)
+
+Clinical-grade signal intelligence for cleaner, more reliable biosignals.
+
+(You may refine this wording slightly, but keep it professional and non-claiming.)
+
+Key Differentiators (Must Be Reflected Visually & Textually)
+
+Signal-first approach (data quality before AI predictions)
+
+Advanced filtering & estimation methods (e.g. Kalman-based models)
+
+Explainability & transparency over black-box AI
+
+Workflow efficiency for clinicians and researchers
+
+Privacy-aware, security-by-design architecture
+
+Research- and pilot-oriented positioning (no medical outcome claims)
+
+Visual & Brand Direction
+
+Style:
+
+High-tech futuristic
+
+Warm human healthcare
+
+Research lab aesthetic
+
+Mood:
+
+Clean, minimal, premium
+
+Calm confidence (no hype, no buzzwords)
+
+Apple-level polish, biotech seriousness
+
+Color Direction:
+
+Dark or neutral base (deep blue, charcoal, off-white)
+
+Accents in cyan / teal / soft green
+
+Avoid aggressive reds or playful colors
+
+Typography:
+
+Modern sans-serif
+
+Scientific, readable, professional
+
+Clear hierarchy, generous spacing
+
+Motion & Visual Effects
+
+Subtle, premium animations only
+
+3D / WebGL-inspired visuals (e.g. abstract brain, neural structures, flowing signals)
+
+Parallax or slow procedural motion backgrounds
+
+No flashy or distracting effects
+
+Animations must support credibility, not entertainment.
+
+Required Pages & Structure
+1. Home
+
+Hero section with strong value proposition
+
+Abstract medical/brain/signal visual background
+
+Short explanation of what the platform does
+
+Key differentiators (icons or minimal diagrams)
+
+Trust signals (“Designed for clinical and research environments”)
+
+CTA: Request a Demo
+
+2. Solution / Technology
+
+Explain the problem: noisy, fragmented, unreliable medical data
+
+Explain the approach: signal processing + AI + efficiency
+
+Visual diagrams or abstract flows (not marketing fluff)
+
+Emphasis on data quality, robustness, and explainability
+
+3. Product
+
+Platform overview
+
+Core modules or capabilities
+
+Example use cases (diagnostics support, research, monitoring – carefully worded)
+
+Screenshots or abstract UI placeholders
+
+4. Clinical Evidence
+
+Position as “in development / research stage”
+
+No clinical claims
+
+Focus on methodology, validation approach, and future roadmap
+
+Language like “designed to support”, “aims to”, “research-focused”
+
+5. Company
+
+Mission-driven, science-first story
+
+Early-stage, academic roots framed as strength
+
+Vision for future impact in healthcare
+
+Professional tone, not “startup hype”
+
+6. Contact
+
+Contact form
+
+Email: martindiego@biotech.ch
+
+Demo request CTA
+
+Clean, minimal layout
+
+Legal & Compliance
+
+Include placeholders for:
+
+Privacy Policy
+
+Imprint / Legal Notice
+
+Use safe, non-medical claims throughout
+
+Avoid words like “diagnose”, “treat”, “improve outcomes”
+
+Technical Requirements
+
+SEO-friendly structure
+
+Fast performance
+
+Accessible (clear contrast, readable font sizes)
+
+Mobile-responsive
+
+Suitable for free hosting environments
+
+Tone of Voice
+
+Professional
+
+Precise
+
+Calm and confident
+
+Scientific but accessible
+
+No buzzwords, no exaggeration
+
+Final Instruction:
+Design the website as if it will be reviewed by clinicians, MedTech partners, and early-stage investors.
+The site should feel like a credible research-grade platform, not a marketing experiment.
